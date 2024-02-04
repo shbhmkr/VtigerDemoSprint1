@@ -6,6 +6,6 @@ public class DemoLeadTest {
 
 	@Test
 	public void demoTest() {
-		System.out.println("the changes bt TE-1");
+		System.out.println("the changes bt TE-2");
 	}
 }
